@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation"
 import { useTheme } from "next-themes";
 import { RiMoonFill, RiSunLine } from "react-icons/ri"
 import { IoMdMenu, IoMdClose } from "react-icons/io"
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 interface NavItem {
   label: string
@@ -39,7 +40,7 @@ export default function Navbar() {
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             <Link to="home">
-              <div className="flex flex-col justify-center items-center container">
+              <div className="flex flex-col items-start container">
                 <h2 className="text-2xl font-bold">Pau Martori</h2>
                 <h3 className="text-xl text-gray-700">Software Engineer</h3>
               </div>
@@ -81,6 +82,14 @@ export default function Navbar() {
                   </Link>
                 )
               })}
+              <a href="https://github.com/bymarto1" target="_blank" rel="noopener noreferrer">
+                <FaGithub size={25} />
+              </a>
+
+              <a href="https://www.linkedin.com/in/pau-martori" target="_blank" rel="noopener noreferrer">
+                <FaLinkedin size={25} />
+              </a>
+
               {currentTheme === "dark" ? (
                 <button
                   onClick={() => setTheme("light")}

@@ -63,13 +63,15 @@ const AboutSection = () => {
                 )
               })}
             </div>
+            <div className="mt-4">
             <Image
               src="/hacker.png"
               alt=""
               width={325}
               height={325}
-              className="hidden md:block md:relative md:bottom-4 md:left-32 md:z-0"
+              className="rounded-xl shadow-xl hover:opacity-70"
             />
+            </div>
           </div>
         </div>
       </div>
