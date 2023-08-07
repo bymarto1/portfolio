@@ -30,24 +30,25 @@ const AboutSection = () => {
             </h1>
             <p>
               Hi, my name is Pau Martori and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" proactive"}</span>, and
-              <span className="font-bold">{" efficient"}</span> software engineer
+              <span className="font-bold">highly ambitious</span>,
+              <span className="font-bold">proactive</span>, and
+              <span className="font-bold">efficient</span> software engineer
               based in Barcelona, Spain.
             </p>
             <br />
             <p>
-              I graduated from 'Universitat Politècnica de Catalunya (UPC)', Barcelona in 2023
-              with a BS in Computer Science, in the Software Engineering path. I've been coding by myself since I started my studies and have worked as a freelancer since my second year in college (2019).
+              I graduated from &apos;Universitat Politècnica de Catalunya (UPC)&apos;, Barcelona in 2023
+              with a BS in Computer Science, specializing in the Software Engineering path. I&apos;ve been coding on my own since I started my studies and have worked as a freelancer since my second year in college (2019).
             </p>
             <br />
             <p>
-            I've merged my love for coding with interests in fashion, sports, and music. Starting with web scraping to purchase limited edition shoes, I expanded into the sneaker bot business. This passion also led me to create bots for obtaining exclusive items like limited concert tickets and big sports events like the Uefa Champions League, in both cases my software helped me purchase the tickets I wanted even though the low availability. My hobbies aren't just pastimes; they fuel my innovation and creativity.
+            I&apos;ve merged my love for coding with interests in fashion, sports, and music. Starting with web scraping to purchase limited-edition shoes, I expanded into the sneaker bot business. This passion also led me to create bots for acquiring exclusive items like limited concert tickets and tickets for big sports events like the UEFA Champions League. In both cases, my software helped me purchase the tickets I wanted despite their low availability. My hobbies aren&apos;t just pastimes; they fuel my innovation and creativity.
             </p>
             <br />
             <p>
-            My projects showcase my ambition and commitment to excellence. From contributing to the blockchain sector to creating personalized bots for purchasing limited items, I've pursued a wide array of challenges. My ability to learn new languages and frameworks rapidly, along with my perfectionist approach, has ensured success and quality in everything I undertake.
+            My projects showcase my ambition and commitment to excellence. From contributing to the blockchain sector to creating personalized bots for purchasing limited items, I&apos;ve pursued a wide array of challenges. My ability to rapidly learn new languages and frameworks, along with my perfectionist approach, ensures success and quality in everything I undertake.
             </p>
+
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">My Skills</h1>
