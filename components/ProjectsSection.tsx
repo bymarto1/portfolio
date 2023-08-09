@@ -50,7 +50,7 @@ const projects = [
     endDate: "October 2022",
   },
   {
-    name: "Dashboard for monitoring aN NFT marketplace",
+    name: "Dashboard for monitoring an NFT marketplace",
     description:
       "As part of my thesis, I developed this dashboard for monitoring the Blur Marketplace. I built both the frontend and the backend, connecting them to a custom monitor I made. The dashboard includes essential features like auth, team management, management of collections to monitor, settings page, and personalized Discord notifications. I also incorporated a subscription system payable with Ethereum via the Metamask extension, making it convenient for users.",
     image: "/dashboard.png",
