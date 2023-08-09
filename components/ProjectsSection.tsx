@@ -19,7 +19,7 @@ const projects = [
   },
   {
     name: "EscapeNotify",
-    description: "EscapeNotify is among the largest reselling groups in Europe, boasting over 2000 paid members. As a developer, I was tasked with creating custom monitors for the group that spanned over 150 websites. I ensured they were faster than any competition, enabling our users to make quick purchases. This ranged from small sneaker stores to the largest online retailers across European countries. This challenge greatly expanded my knowledge on web scraping and bypassing website security.",
+    description: "EscapeNotify is among the largest reselling groups in Europe, with over 2,000 paid members. As a developer, I was tasked with creating custom monitors for the group that spanned over 150 websites. I ensured they were faster than the competition, enabling our users to make quick purchases. This ranged from small sneaker stores to the largest online retailers across European countries. This challenge greatly expanded my knowledge on web scraping and bypassing website security.",
     image: "/escape.png",
     github: "",
     twitter: "https://twitter.com/EscapeNotify",
@@ -30,7 +30,7 @@ const projects = [
   {
     name: "FlareRaffles",
     description:
-      "FlareRaffles, now known as Novum, is the market's leading Raffle bot. In my role at FlareRaffles, I was responsible for creating and maintaining modules for clothing and shoes raffles from stores globally. I tackled raffles from small stores to custom Shopify Raffles with advanced bot protection. This position necessitated a deeper understanding of bypassing bot protection, while also considering direct user feedback from those who interacted with the bot via a Terminal executable file.",
+      "FlareRaffles, now known as Novum, is the market's leading Raffle bot. In my role at FlareRaffles, I was responsible for creating and maintaining modules for clothing and shoes raffles from stores globally. I tackled raffles from small stores to custom Shopify Raffles with advanced bot protection. This role required a deep understanding of bypassing bot protection, while also considering direct user feedback from those who interacted with the bot via a Terminal executable file.",
     image: "/flareRaffles.png",
     github: "",
     twitter: "https://twitter.com/NovumRaffles",
@@ -41,7 +41,7 @@ const projects = [
   {
     name: "Silencio",
     description:
-      "Silencio was my debut project as a founder and lead developer. Initially, it started as a Discord bot designed to simulate human-like interaction within the NFT market. However, it evolved into a top-tier NFT raffle bot, serving over 500 unique users and generating revenue exceeding $200,000. \n\nSilencio expanded over time, incorporating a plethora of social media functionalities, including Instagram bot and Twitter Bot features, all developed by me using requests and resolving any challenges imposed by the social media platforms to curb bots.\n\nThe role demanded working under pressure, as modules often needed to be ready for users within days, or even hours. This meant solving all challenges and creating scripts for websites in a limited time frame.",
+      "Silencio was my debut project as a founder and lead developer. Initially, it started as a Discord bot designed to simulate human-like interaction within the NFT market. However, it evolved into a top-tier NFT raffle bot, serving over 500 unique users and generating revenue exceeding $200,000. \n\nSilencio expanded over time, incorporating a plethora of social media functionalities, including Instagram bots and Twitter bots features, all of which I developed using requests and resolving any challenges imposed by the social media platforms to curb bots.\n\nThe role demanded working under pressure, as modules often needed to be ready for users within days, or even hours. This meant solving all challenges and creating scripts for websites in a limited time frame.",
     image: "/silencio.png",
     github: "",
     twitter: "https://twitter.com/SilencioWL",
@@ -50,7 +50,7 @@ const projects = [
     endDate: "October 2022",
   },
   {
-    name: "Dashboard for monitoring a NFT marketplace",
+    name: "Dashboard for monitoring aN NFT marketplace",
     description:
       "As part of my thesis, I developed this dashboard for monitoring the Blur Marketplace. I built both the frontend and the backend, connecting them to a custom monitor I made. The dashboard includes essential features like auth, team management, management of collections to monitor, settings page, and personalized Discord notifications. I also incorporated a subscription system payable with Ethereum via the Metamask extension, making it convenient for users.",
     image: "/dashboard.png",

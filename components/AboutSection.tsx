@@ -32,7 +32,7 @@ const AboutSection = () => {
               Hi, my name is Pau Martori and I am a{" "}
               <span className="font-bold">highly ambitious</span>,
               <span className="font-bold">proactive</span>, and
-              <span className="font-bold">efficient</span> software engineer
+              <span className="font-bold"> efficient</span> software engineer
               based in Barcelona, Spain.
             </p>
             <br />
